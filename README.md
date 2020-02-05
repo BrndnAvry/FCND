@@ -9,4 +9,4 @@ The controller was tested by flying through a series of virtual gates, or waypoi
 
 The following video shows the tuned controller successfully pilot the aircraft through the various flightpaths to complete the final scenario challenge.
 
-[![FlightPath]({fw_challenge.png})]({https://www.youtube.com/watch?v=fSoTLpURGnU} "Udacity FCND Fixed Wing Project")
+[![Fixed-Wing Controller](https://img.youtube.com/vi/fSoTLpURGnU/0.jpg)](https://www.youtube.com/watch?v=fSoTLpURGnU)
